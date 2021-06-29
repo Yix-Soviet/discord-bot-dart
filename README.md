@@ -1,6 +1,6 @@
 # Discord Bot
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart Logo" width="200px" />
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart Logo" width="200px" /></div>
 
 A simple discord bot made in Dart
 
