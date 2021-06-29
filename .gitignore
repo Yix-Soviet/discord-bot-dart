@@ -6,7 +6,7 @@
 build/
 
 test/
-lib/private/
+lib/private/token.dart
 
 .vscode/
 
